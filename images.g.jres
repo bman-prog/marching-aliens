@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQRAA4AAAAAAAAAAAAAAAAAAHB3AAAAAAAAd3cHAAAAAACHiHgAAHB3d4d3eAcAcP//h4d4BwBw//93d3cHAAB3d4eIeAcAAAAAh4d3BwAAd3eHiHgHAHD//3d3dwcAcP//h4h4BwBwd3eHh3cHAAAAAIeIdwAAAAAAd3d3AAAAAABwdwAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Alien"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
